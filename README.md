@@ -1,6 +1,6 @@
 
-<h1 align="left">Hi there 👋, I'm NGUYEN MAU HAI ANH a passionate Fullstack Web Developer who loves building awesome web applications!</h1>
-
+<h1 align="left">Hi there 👋</h1>
+<p aligh="left">I'm NGUYEN MAU HAI ANH a passionate Fullstack Web Developer who loves building awesome web applications!</p>
 💻 Fullstack Web Developer | 🎥 YouTube Content Creator 
 
 ---
