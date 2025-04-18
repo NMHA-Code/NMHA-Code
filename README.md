@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="(https://github.com/NMHA-Code/profile-images/blob/main/NMHA.png)" alt="banner" style="width:100%; aspect-ratio:16/9; object-fit:cover;"/>
-</p>
 
-<h1 align="left">Hi there 👋, I'm NGUYEN MAU HAI ANH</h1>
+<h1 align="left">Hi there 👋, I'm NGUYEN MAU HAI ANH a passionate Fullstack Web Developer who loves building awesome web applications!</h1>
 
-💻 Fullstack Web Developer | 🎥 YouTube Content Creator | 💡 Passionate Learner
+💻 Fullstack Web Developer | 🎥 YouTube Content Creator 
 
 ---
 
